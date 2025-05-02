@@ -5,4 +5,4 @@
 
 #akamaized.net
 #cztv.com
-chinamobile.com
+http://otttv.bj.chinamobile.com
