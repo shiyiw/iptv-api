@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
 https://m3u.ibert.me/fmml_ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# 福建移动单播源(含183.251直连IP+ott.fj域名) 2026-09-06 加
+https://raw.githubusercontent.com/xisohi/CHINA-IPTV/main/Unicast/fujian/mobile.txt
 
 
 [WHITELIST]
