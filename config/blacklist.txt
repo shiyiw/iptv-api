@@ -2,3 +2,8 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+74.91.26.218
+pdtvhd.com
+101.35.240.114
+239.3.
+69.30.245.50
