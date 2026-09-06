@@ -10,8 +10,8 @@ services:
       - "${PORT:-80}:8080"
 
     volumes:
-      - /iptv-api/config:/iptv-api/config
-      - /iptv-api/output:/iptv-api/output
+      - /Users/yishi/code/iptv-api/config:/iptv-api/config
+      - /Users/yishi/code/iptv-api/output:/iptv-api/output
 
     environment:
       PUBLIC_SCHEME: "http"
