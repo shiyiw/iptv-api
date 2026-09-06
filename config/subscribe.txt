@@ -9,13 +9,10 @@ https://iptv-org.github.io/iptv/countries/cn.m3u
 #https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-# 2026-09-06: 上游文件已清空(仓库疑似被整顿),停用
-#https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
 #https://tv.iill.top/m3u/Gather
 https://m3u.ibert.me/fmml_ipv6.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-# 2026-09-06: 频道命名带「移动」等后缀与模板不匹配,且无IPv6源,停用
-#https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
