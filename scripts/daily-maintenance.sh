@@ -18,7 +18,7 @@ export HOME="${HOME:-/Users/yishi}"
 log "restarting container ${CONTAINER}"
 docker restart "${CONTAINER}" || { log "docker restart failed"; exit 1; }
 
-log "waiting ${WAIT_S}s (15 min) for startup update to complete"
+log "waiting ${WAIT_S}s for startup update to complete"
 sleep "${WAIT_S}"
 
 cd "$REPO" || { log "repo missing"; exit 1; }
