@@ -2,21 +2,20 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
 # 公共订阅源(兜底):iptv-org 中国频道列表
-https://iptv-org.github.io/iptv/countries/cn.m3u
 #https://live.fanmingming.com/tv/m3u/index.m3u
 #https://live.fanmingming.com/tv/m3u/ipv6.m3u
+#https://tv.iill.top/m3u/Gather
+# 福建移动单播源(含183.251直连IP+ott.fj域名) 2026-09-06 加
+https://iptv-org.github.io/iptv/countries/cn.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-#https://tv.iill.top/m3u/Gather
 https://m3u.ibert.me/fmml_ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# 福建移动单播源(含183.251直连IP+ott.fj域名) 2026-09-06 加
 https://raw.githubusercontent.com/xisohi/CHINA-IPTV/main/Unicast/fujian/mobile.txt
 
+# https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
