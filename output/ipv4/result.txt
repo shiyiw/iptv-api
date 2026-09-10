@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-09-10 22:47:55,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+2026-09-11 05:02:32,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 
 📺央视频道,#genre#
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 
 📡卫视频道,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 ☘️广东频道,#genre#
