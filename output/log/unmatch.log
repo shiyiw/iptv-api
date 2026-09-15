@@ -1,127 +1,32 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>403 Forbidden</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px}
-.c{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:36px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.4)}
-.i{width:56px;height:56px;background:rgba(239,68,68,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
-.i svg{width:28px;height:28px;stroke:#ef4444;fill:none;stroke-width:2}
-.t{font-size:13px;font-weight:700;letter-spacing:1.5px;color:#ef4444;margin-bottom:6px}
-h1{font-size:20px;color:#f8fafc;margin-bottom:10px}
-p{font-size:14px;line-height:1.5;color:#94a3b8;margin-bottom:24px}
-.btns{display:flex;gap:10px;justify-content:center}
-.btn{padding:8px 16px;border-radius:6px;font-size:13px;font-weight:500;text-decoration:none;cursor:pointer;border:none;display:inline-block}
-.bp{background:#3b82f6;color:#fff}
-.bp:hover{background:#2563eb}
-.bs{background:#334155;color:#cbd5e1}
-.bs:hover{background:#475569}
-</style>
-</head>
-<body>
-<div class="c">
-<div class="i">
-<svg viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 002.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
-</div>
-<div class="t">403 FORBIDDEN</div>
-<h1>禁止访问</h1>
-<p>抱歉,您没有权限访问该资源。请检查您的权限或联系管理员。</p>
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>403 Forbidden</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px}
-.c{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:36px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.4)}
-.i{width:56px;height:56px;background:rgba(239,68,68,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
-.i svg{width:28px;height:28px;stroke:#ef4444;fill:none;stroke-width:2}
-.t{font-size:13px;font-weight:700;letter-spacing:1.5px;color:#ef4444;margin-bottom:6px}
-h1{font-size:20px;color:#f8fafc;margin-bottom:10px}
-p{font-size:14px;line-height:1.5;color:#94a3b8;margin-bottom:24px}
-.btns{display:flex;gap:10px;justify-content:center}
-.btn{padding:8px 16px;border-radius:6px;font-size:13px;font-weight:500;text-decoration:none;cursor:pointer;border:none;display:inline-block}
-.bp{background:#3b82f6;color:#fff}
-.bp:hover{background:#2563eb}
-.bs{background:#334155;color:#cbd5e1}
-.bs:hover{background:#475569}
-</style>
-</head>
-<body>
-<div class="c">
-<div class="i">
-<svg viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 002.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
-</div>
-<div class="t">403 FORBIDDEN</div>
-<h1>禁止访问</h1>
-<p>抱歉,您没有权限访问该资源。请检查您的权限或联系管理员。</p>
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>403 Forbidden</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px}
-.c{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:36px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.4)}
-.i{width:56px;height:56px;background:rgba(239,68,68,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
-.i svg{width:28px;height:28px;stroke:#ef4444;fill:none;stroke-width:2}
-.t{font-size:13px;font-weight:700;letter-spacing:1.5px;color:#ef4444;margin-bottom:6px}
-h1{font-size:20px;color:#f8fafc;margin-bottom:10px}
-p{font-size:14px;line-height:1.5;color:#94a3b8;margin-bottom:24px}
-.btns{display:flex;gap:10px;justify-content:center}
-.btn{padding:8px 16px;border-radius:6px;font-size:13px;font-weight:500;text-decoration:none;cursor:pointer;border:none;display:inline-block}
-.bp{background:#3b82f6;color:#fff}
-.bp:hover{background:#2563eb}
-.bs{background:#334155;color:#cbd5e1}
-.bs:hover{background:#475569}
-</style>
-</head>
-<body>
-<div class="c">
-<div class="i">
-<svg viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 002.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
-</div>
-<div class="t">403 FORBIDDEN</div>
-<h1>禁止访问</h1>
-<p>抱歉,您没有权限访问该资源。请检查您的权限或联系管理员。</p>
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>403 Forbidden</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px}
-.c{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:36px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.4)}
-.i{width:56px;height:56px;background:rgba(239,68,68,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
-.i svg{width:28px;height:28px;stroke:#ef4444;fill:none;stroke-width:2}
-.t{font-size:13px;font-weight:700;letter-spacing:1.5px;color:#ef4444;margin-bottom:6px}
-h1{font-size:20px;color:#f8fafc;margin-bottom:10px}
-p{font-size:14px;line-height:1.5;color:#94a3b8;margin-bottom:24px}
-.btns{display:flex;gap:10px;justify-content:center}
-.btn{padding:8px 16px;border-radius:6px;font-size:13px;font-weight:500;text-decoration:none;cursor:pointer;border:none;display:inline-block}
-.bp{background:#3b82f6;color:#fff}
-.bp:hover{background:#2563eb}
-.bs{background:#334155;color:#cbd5e1}
-.bs:hover{background:#475569}
-</style>
-</head>
-<body>
-<div class="c">
-<div class="i">
-<svg viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 002.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
-</div>
-<div class="t">403 FORBIDDEN</div>
-<h1>禁止访问</h1>
-<p>抱歉,您没有权限访问该资源。请检查您的权限或联系管理员。</p>
+延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~q0D3NdTUN7FuRzr8eJsbQA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~kHMvBpWz4rccMxNvSRekpQ~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=%2A%2A%2A&txTime=771EF880
+蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
@@ -225,32 +130,3 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
-延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~q0D3NdTUN7FuRzr8eJsbQA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~kHMvBpWz4rccMxNvSRekpQ~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=%2A%2A%2A&txTime=771EF880
-蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
