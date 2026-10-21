@@ -52,6 +52,7 @@ Heilongjiang TV (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224
 Hezheng TV,http://117.156.28.119/270000001111/1110000149/index.m3u8
 High Channel TV (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 HomePlus,https://homeplushls.wns.live/hls/stream.m3u8
+Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 Hunan News Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 Hunan Politics & Law Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 Hunan Womens Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
@@ -110,6 +111,7 @@ Xi'an Silk Road Channel (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playl
 Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang TV 5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
 Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 Xuzhou Economic Life Channel (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
