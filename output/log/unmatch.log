@@ -85,6 +85,7 @@ Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index
 Nei Monggol TV (960p),https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 Ningxia Satellite Channel (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+Qianjiang Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=%2A%2A%2A
 Qinghai TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
@@ -119,7 +120,11 @@ Xuzhou Economic Life Channel (1080p),http://223.110.245.167/ott.js.chinamobile.c
 Yanbian Satellite TV (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 You Man Cartoon Channel (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 Yunnan Satellite TV (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+Zhejiang Children's Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=%2A%2A%2A
+Zhejiang Economic Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=%2A%2A%2A
+Zhejiang Education Technology Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=%2A%2A%2A
 Zhejiang International Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+Zhejiang Minsheng Leisure,rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=%2A%2A%2A
 Zhejiang Satellite TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~q0D3NdTUN7FuRzr8eJsbQA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~kHMvBpWz4rccMxNvSRekpQ~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
