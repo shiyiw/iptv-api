@@ -36,14 +36,14 @@ Chuzhou Science & Education Channel (400p),http://live.cztv.cc:85/live/sjpd.m3u8
 CND Film Discovery Channel (576p),http://125.210.152.18:9090/live/FXZL_750.m3u8
 CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 Documentary Humanities Channel (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+Dongguan Comprehensive News Channel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Dunhuang TV (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
 Fengshang Shopping Channel (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
-Fujian Comprehensive Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+Fujian Comprehensive Channel,http://120.39.52.202:5140/福建综合
 Golden Eagle Cartoon (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 Guangdong Satellite TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
-Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
+Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 Guizhou TV (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -87,12 +87,12 @@ Ningxia Satellite Channel (576p),http://39.134.115.163:8080/PLTV/88888910/224/32
 Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 Qianjiang Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=%2A%2A%2A
 Qinghai TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
+QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 Shandong Satellite TV (720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 Shandong TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 Shandong TV Agricultural Science Channel (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
@@ -113,7 +113,6 @@ Xi'an Silk Road Channel (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playl
 Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
-Xinjiang TV 5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
 Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=%2A%2A%2A&key=%2A%2A%2A&playlive=1
 Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 Xuzhou Economic Life Channel (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
